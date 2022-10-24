@@ -1,0 +1,2 @@
+192.168.0.1 - [26/Mar/2018:12:06:59 +0900] /admin/board/listImage/process.php: filename = cimg.png: 허용되지 않은 확장자 파일 업로드
+192.168.0.1 - [26/Mar/2018:12:13:55 +0900] /admin/board/listImage/process.php: imagename = prd1.png: 허용되지 않은 확장자 파일 업로드

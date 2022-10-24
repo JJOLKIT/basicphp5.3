@@ -1,0 +1,32 @@
+14:22:10 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND gubun = 'board'
+14:22:10 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+14:22:10 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1
+18:10:56 192.168.0.1 /include/weblogProcess.php
+
+18:10:56 192.168.0.1 /include/weblogProcess.php
+
+18:11:05 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+18:11:05 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+18:11:05 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:11:07 192.168.0.1 /admin/member/secede_index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:11:09 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+18:11:09 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:11:12 192.168.0.1 /admin/board/gallery/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:11:13 192.168.0.1 /admin/board/gallery/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:11:23 192.168.0.1 /admin/board/gallery/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+21:58:16 210.220.79.255 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1

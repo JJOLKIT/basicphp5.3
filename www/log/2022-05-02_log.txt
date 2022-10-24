@@ -1,0 +1,30 @@
+09:38:42 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+09:38:42 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1
+18:04:56 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND gubun = 'board'
+18:04:56 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+18:04:56 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1
+18:05:02 192.168.0.1 /include/weblogProcess.php
+
+18:05:02 192.168.0.1 /include/weblogProcess.php
+
+18:05:02 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+18:05:02 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+18:05:02 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:05:19 192.168.0.1 /admin/cscenter/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:05:19 192.168.0.1 /admin/cscenter/faq/category.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:05:28 192.168.0.1 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1

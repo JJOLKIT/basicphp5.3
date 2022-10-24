@@ -1,0 +1,56 @@
+13:10:49 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+13:10:49 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+13:10:49 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+13:10:55 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+13:10:55 192.168.0.1 /admin/manage/manager/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+13:11:32 192.168.0.1 /admin/manage/manager/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+13:12:21 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+13:12:21 192.168.0.1 /admin/manage/manager/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+13:12:38 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 8 AND gubun = 'board'
+13:12:38 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 8 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+13:12:38 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 8
+13:17:49 211.222.214.95 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 8 AND gubun = 'board'
+13:17:49 211.222.214.95 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 8 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+13:17:49 211.222.214.95 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 8
+13:18:05 211.222.214.95 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM cs WHERE 1=1 AND refer = 'basicphp3' 
+13:18:05 211.222.214.95 /admin/cs/index.php
+
+			SELECT *, 
+				(SELECT COUNT(*) FROM comment WHERE tablename = 'cs' AND parent_fk = cs.no) AS comment_count
+			FROM cs
+			 WHERE 1=1 AND refer = 'basicphp3' 
+			ORDER BY registdate DESC LIMIT 0, 10 
+13:18:05 211.222.214.95 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 8
+13:19:26 192.168.0.1 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 8
+13:19:30 192.168.0.1 /admin/member/secede_index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 8

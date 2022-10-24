@@ -1,0 +1,129 @@
+16:51:40 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+16:51:40 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+16:51:40 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:51:49 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:51:49 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:51:51 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:51:51 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:51:52 192.168.0.1 /admin/cscenter/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:51:52 192.168.0.1 /admin/cscenter/faq/category.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:51:54 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:51:54 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:51:58 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:00 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+16:52:00 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+16:52:00 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+21:24:39 115.21.253.187 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6 AND gubun = 'board'
+21:24:39 115.21.253.187 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 6 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+21:24:39 115.21.253.187 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:24:45 115.21.253.187 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:24:50 115.21.253.187 /admin/board/notice/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:24:53 115.21.253.187 /admin/board/notice/edit.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:03 115.21.253.187 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+21:25:03 115.21.253.187 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:06 115.21.253.187 /admin/site/spam/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:13 115.21.253.187 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:17 115.21.253.187 /admin/member/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:21 115.21.253.187 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:24 115.21.253.187 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+21:25:24 115.21.253.187 /admin/manage/manager/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:31 115.21.253.187 /admin/connect/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:33 115.21.253.187 /admin/connect/page/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:37 115.21.253.187 /admin/connect/keyword.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:39 115.21.253.187 /admin/connect/monthly.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:41 115.21.253.187 /admin/connect/rate/index.php
+
+			SELECT
+		
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 23:59:59') ) AS m7,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 23:59:59') ) AS p7,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 23:59:59') ) AS m6,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 23:59:59') ) AS p6,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 23:59:59') ) AS m5,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 23:59:59') ) AS p5,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 23:59:59') ) AS m4,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 23:59:59') ) AS p4,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 23:59:59') ) AS m3,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 23:59:59') ) AS p3,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 23:59:59') ) AS m2,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 23:59:59') ) AS p2,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 23:59:59') ) AS m1,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 23:59:59') ) AS p1,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -0 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL 0 DAY), 10), ' 23:59:59') ) AS m0,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -0 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL 0 DAY), 10), ' 23:59:59') ) AS p0
+				
+21:25:41 115.21.253.187 /admin/connect/rate/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:44 115.21.253.187 /admin/connect/rate/browser.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:45 115.21.253.187 /admin/connect/country/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:51 115.21.253.187 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM cs WHERE 1=1 AND refer = 'basicphp3' 
+21:25:51 115.21.253.187 /admin/cs/index.php
+
+			SELECT *, 
+				(SELECT COUNT(*) FROM comment WHERE tablename = 'cs' AND parent_fk = cs.no) AS comment_count
+			FROM cs
+			 WHERE 1=1 AND refer = 'basicphp3' 
+			ORDER BY registdate DESC LIMIT 0, 10 
+21:25:51 115.21.253.187 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+21:25:54 115.21.253.187 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6 AND gubun = 'board'
+21:25:54 115.21.253.187 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 6 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+21:25:54 115.21.253.187 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6

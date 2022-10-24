@@ -1,0 +1,94 @@
+12:24:56 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+12:24:57 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+14:56:47 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+15:08:14 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+15:09:50 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:34:29 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:41:55 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:42:02 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:42:10 192.168.0.1 /admin/connect/rate/index.php
+
+			SELECT
+		
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 23:59:59') ) AS m7,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -7 DAY), 10), ' 23:59:59') ) AS p7,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 23:59:59') ) AS m6,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -6 DAY), 10), ' 23:59:59') ) AS p6,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 23:59:59') ) AS m5,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -5 DAY), 10), ' 23:59:59') ) AS p5,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 23:59:59') ) AS m4,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -4 DAY), 10), ' 23:59:59') ) AS p4,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 23:59:59') ) AS m3,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -3 DAY), 10), ' 23:59:59') ) AS p3,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 23:59:59') ) AS m2,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -2 DAY), 10), ' 23:59:59') ) AS p2,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 23:59:59') ) AS m1,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -1 DAY), 10), ' 23:59:59') ) AS p1,
+
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='M' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -0 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL 0 DAY), 10), ' 23:59:59') ) AS m0,
+					(SELECT COUNT(DISTINCT ip) FROM pagelog WHERE user_agent='PC' AND registdate BETWEEN CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL -0 DAY), 10), ' 00:00:00') AND CONCAT(LEFT(DATE_ADD(NOW(), INTERVAL 0 DAY), 10), ' 23:59:59') ) AS p0
+				
+16:44:52 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:44:54 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:45:50 192.168.0.1 /admin/cscenter/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:47:54 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:54:40 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:19:49 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:02:36 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+18:35:48 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:35:50 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:41:31 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:52:31 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:52:51 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:58:33 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:58:35 192.168.0.1 /admin/cscenter/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:58:58 192.168.0.1 /admin/cscenter/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 

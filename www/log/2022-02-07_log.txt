@@ -1,0 +1,120 @@
+18:25:18 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+18:25:18 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+18:25:18 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:25:20 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:25:22 192.168.0.1 /admin/board/notice/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:25:24 192.168.0.1 /admin/board/notice/edit.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:25:29 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:25:41 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:25:58 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:32 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:32 192.168.0.1 /admin/cscenter/consult/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:35 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:36 192.168.0.1 /admin/cscenter/consult/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:39 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:40 192.168.0.1 /admin/board/notice/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:50 192.168.0.1 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:26:52 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:27:23 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:27:42 192.168.0.1 /admin/board/gallery/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:27:51 192.168.0.1 /admin/board/gallery/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:28:21 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:28:21 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:28:30 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:28:30 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:28:31 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:28:32 192.168.0.1 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:28:44 192.168.0.1 /admin/cscenter/formmail/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:28:55 192.168.0.1 /admin/cscenter/formmail/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:28:56 192.168.0.1 /admin/cscenter/bot/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:05 192.168.0.1 /admin/cscenter/bot/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:07 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+18:29:07 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:17 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+18:29:17 192.168.0.1 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:19 192.168.0.1 /admin/site/spam/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:20 192.168.0.1 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:30 192.168.0.1 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:33 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:29:33 192.168.0.1 /admin/manage/manager/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:43 192.168.0.1 /admin/connect/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:51 192.168.0.1 /admin/connect/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:29:53 192.168.0.1 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM cs WHERE 1=1 AND refer = 'basicphp3' 
+18:29:53 192.168.0.1 /admin/cs/index.php
+
+			SELECT *, 
+				(SELECT COUNT(*) FROM comment WHERE tablename = 'cs' AND parent_fk = cs.no) AS comment_count
+			FROM cs
+			 WHERE 1=1 AND refer = 'basicphp3' 
+			ORDER BY registdate DESC LIMIT 0, 10 
+18:29:53 192.168.0.1 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:30:06 192.168.0.1 /admin/cs/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:30:13 192.168.0.1 /admin/cs/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:30:15 192.168.0.1 /admin/cs/edit.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:30:21 192.168.0.1 /admin/cs/edit.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:30:22 192.168.0.1 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM cs WHERE 1=1 AND refer = 'basicphp3' 
+18:30:22 192.168.0.1 /admin/cs/index.php
+
+			SELECT *, 
+				(SELECT COUNT(*) FROM comment WHERE tablename = 'cs' AND parent_fk = cs.no) AS comment_count
+			FROM cs
+			 WHERE 1=1 AND refer = 'basicphp3' 
+			ORDER BY registdate DESC LIMIT 0, 10 
+18:30:22 192.168.0.1 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1

@@ -1,0 +1,15 @@
+11:25:58 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6 AND gubun = 'board'
+11:25:58 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 6 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+11:25:58 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+11:26:01 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+11:26:04 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+11:26:08 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6
+11:29:38 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 6

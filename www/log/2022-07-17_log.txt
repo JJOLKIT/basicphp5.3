@@ -1,0 +1,23 @@
+12:57:28 219.250.88.83 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+12:57:28 219.250.88.83 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+12:57:28 219.250.88.83 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+12:57:32 219.250.88.83 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+12:57:32 219.250.88.83 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+12:57:35 219.250.88.83 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+12:57:39 219.250.88.83 /admin/cscenter/reply2/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+12:57:41 219.250.88.83 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+12:57:42 219.250.88.83 /admin/cscenter/reply2/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+12:57:52 219.250.88.83 /admin/cscenter/reply2/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+12:57:59 219.250.88.83 /admin/cscenter/reply2/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1

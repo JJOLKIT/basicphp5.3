@@ -1,0 +1,1 @@
+192.168.0.253 - [04/Dec/2014:10:51:35 +0900] /manage/environment/admin/index.php: sval = delete from: SQL_Injection 공격 패턴 탐지

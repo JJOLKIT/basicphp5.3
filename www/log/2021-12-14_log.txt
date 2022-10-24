@@ -1,0 +1,198 @@
+10:21:03 192.168.0.1 /include/weblogProcess.php
+
+10:21:03 192.168.0.1 /include/weblogProcess.php
+
+12:42:58 192.168.0.1 /include/weblogProcess.php
+
+12:42:58 192.168.0.1 /include/weblogProcess.php
+
+12:43:41 192.168.0.1 /include/weblogProcess.php
+
+12:43:41 192.168.0.1 /include/weblogProcess.php
+
+12:44:47 192.168.0.1 /include/weblogProcess.php
+
+12:44:47 192.168.0.1 /include/weblogProcess.php
+
+12:46:01 192.168.0.1 /include/weblogProcess.php
+
+12:46:01 192.168.0.1 /include/weblogProcess.php
+
+12:46:43 192.168.0.1 /include/weblogProcess.php
+
+12:46:43 192.168.0.1 /include/weblogProcess.php
+
+12:47:31 192.168.0.1 /include/weblogProcess.php
+
+12:47:31 192.168.0.1 /include/weblogProcess.php
+
+12:47:38 192.168.0.1 /include/weblogProcess.php
+
+12:47:38 192.168.0.1 /include/weblogProcess.php
+
+12:48:56 192.168.0.1 /include/weblogProcess.php
+
+12:48:56 192.168.0.1 /include/weblogProcess.php
+
+12:49:03 192.168.0.1 /include/weblogProcess.php
+
+12:49:03 192.168.0.1 /include/weblogProcess.php
+
+12:49:04 192.168.0.1 /member/process.php
+
+			INSERT INTO member
+				(id, password, name, tel, cell, email,
+				zipcode, addr0, addr1, secession, registdate)
+			VALUES
+				('', password(''), '', '', '', '',
+				'', '', '', '',  NOW() )
+12:49:10 192.168.0.1 /include/weblogProcess.php
+
+12:49:10 192.168.0.1 /include/weblogProcess.php
+
+12:49:11 192.168.0.1 /include/weblogProcess.php
+
+12:49:11 192.168.0.1 /include/weblogProcess.php
+
+12:50:37 192.168.0.1 /include/weblogProcess.php
+
+12:50:37 192.168.0.1 /include/weblogProcess.php
+
+12:51:22 192.168.0.1 /include/weblogProcess.php
+
+12:51:22 192.168.0.1 /include/weblogProcess.php
+
+12:51:23 192.168.0.1 /member/process.php
+
+			INSERT INTO member
+				(id, password, name, tel, cell, email,
+				zipcode, addr0, addr1, secession, registdate)
+			VALUES
+				('', password(''), '', '', '', '',
+				'', '', '', '',  NOW() )
+12:51:25 192.168.0.1 /include/weblogProcess.php
+
+12:51:25 192.168.0.1 /include/weblogProcess.php
+
+12:51:32 192.168.0.1 /include/weblogProcess.php
+
+12:51:32 192.168.0.1 /include/weblogProcess.php
+
+12:51:36 192.168.0.1 /include/weblogProcess.php
+
+12:51:36 192.168.0.1 /include/weblogProcess.php
+
+12:51:53 192.168.0.1 /include/weblogProcess.php
+
+12:51:53 192.168.0.1 /include/weblogProcess.php
+
+12:54:26 192.168.0.1 /include/weblogProcess.php
+
+12:54:26 192.168.0.1 /include/weblogProcess.php
+
+12:55:28 192.168.0.1 /include/weblogProcess.php
+
+12:55:28 192.168.0.1 /include/weblogProcess.php
+
+12:55:40 192.168.0.1 /include/weblogProcess.php
+
+12:55:40 192.168.0.1 /include/weblogProcess.php
+
+12:56:43 192.168.0.1 /include/weblogProcess.php
+
+12:56:43 192.168.0.1 /include/weblogProcess.php
+
+12:58:38 192.168.0.1 /include/weblogProcess.php
+
+12:58:38 192.168.0.1 /include/weblogProcess.php
+
+12:58:54 192.168.0.1 /include/weblogProcess.php
+
+12:58:54 192.168.0.1 /include/weblogProcess.php
+
+12:59:14 192.168.0.1 /include/weblogProcess.php
+
+12:59:14 192.168.0.1 /include/weblogProcess.php
+
+13:00:56 192.168.0.1 /include/weblogProcess.php
+
+13:00:56 192.168.0.1 /include/weblogProcess.php
+
+13:00:58 192.168.0.1 /member/process.php
+
+			INSERT INTO member
+				(id, password, name, tel, cell, email,
+				zipcode, addr0, addr1, secession, registdate)
+			VALUES
+				('', password(''), '', '', '', '',
+				'', '', '', '',  NOW() )
+13:01:00 192.168.0.1 /include/weblogProcess.php
+
+13:01:00 192.168.0.1 /include/weblogProcess.php
+
+13:01:08 192.168.0.1 /include/weblogProcess.php
+
+13:01:08 192.168.0.1 /include/weblogProcess.php
+
+13:01:28 192.168.0.1 /member/process.php
+
+			INSERT INTO member
+				(id, password, name, tel, cell, email,
+				zipcode, addr0, addr1, secession, registdate)
+			VALUES
+				('test23', password('test1234'), '123', '', '123', 'test@naver.com',
+				'', '', '', '',  NOW() )
+13:01:29 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/member/process.php
+13:01:29 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+13:01:35 192.168.0.1 /include/weblogProcess.php
+
+13:01:35 192.168.0.1 /include/weblogProcess.php
+
+13:01:47 192.168.0.1 /member/process.php
+
+			INSERT INTO member
+				(id, password, name, tel, cell, email,
+				zipcode, addr0, addr1, secession, registdate)
+			VALUES
+				('test33', password('test1234'), 'test44', '', '123', '123@naver.com',
+				'', '', '', '',  NOW() )
+13:01:48 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/member/process.php
+13:01:48 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+13:01:52 192.168.0.1 /include/weblogProcess.php
+
+13:01:52 192.168.0.1 /include/weblogProcess.php
+
+13:01:54 192.168.0.1 /include/weblogProcess.php
+
+13:01:54 192.168.0.1 /include/weblogProcess.php
+
+13:02:10 192.168.0.1 /member/process.php
+
+			INSERT INTO member
+				(id, password, name, tel, cell, email,
+				zipcode, addr0, addr1, secession, registdate)
+			VALUES
+				('test55', password('test1234'), '123', '', '123', '1234@naver.com',
+				'', '', '', '',  NOW() )
+13:02:12 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/member/process.php
+13:02:12 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+13:02:29 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/member/process.php
+13:02:29 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+18:41:47 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+19:10:36 192.168.0.1 /admin/spam/process.php
+
+			UPDATE spam SET 
+				contents = replace('토토,스포츠토토,불법도박,경마게임,경마,도박', ' ', '') 
+19:10:48 192.168.0.1 /include/weblogProcess.php
+
+19:10:48 192.168.0.1 /include/weblogProcess.php
+

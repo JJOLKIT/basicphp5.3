@@ -1,0 +1,116 @@
+192.168.0.253 - [30/Oct/2015:10:52:59 +0900] /manage/board/popup/process.php: imagename = 슬라이드1.PNG: 허용되지 않은 확장자 파일 업로드
+ -&gt; [Method: FILE]
+ -&gt; [Policy: 파일정책]
+ -&gt; [Pattern: check filetype]
+192.168.0.253 - [30/Oct/2015:10:53:03 +0900] /manage/board/popup/process.php: imagename = 슬라이드1.PNG: 허용되지 않은 확장자 파일 업로드
+ -&gt; [Method: FILE]
+ -&gt; [Policy: 파일정책]
+ -&gt; [Pattern: check filetype]
+192.168.0.253 - [30/Oct/2015:10:53:33 +0900] /manage/board/popup/process.php: imagename = 슬라이드1.PNG: 허용되지 않은 확장자 파일 업로드
+ -&gt; [Method: FILE]
+ -&gt; [Policy: 파일정책]
+ -&gt; [Pattern: check filetype]
+192.168.0.253 - [30/Oct/2015:10:56:53 +0900] /manage/board/popup/process.php: imagename = 슬라이드1.PNG: 허용되지 않은 확장자 파일 업로드
+ -&gt; [Method: FILE]
+ -&gt; [Policy: 파일정책]
+ -&gt; [Pattern: check filetype]
+192.168.0.253 - [30/Oct/2015:17:05:49 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:06:05 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:06:14 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:06:27 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:06:34 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:07:09 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:07:30 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:07:38 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:07:52 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:08:35 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:08:54 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:10:18 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:10:21 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:11:32 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:11:35 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:16:26 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:19:08 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:20:03 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:22:02 +0900] /manage/moneymail/process.php: contents = &lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;\r\n		te: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:22:30 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:22:32 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:25:57 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:25:58 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:25:59 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]
+192.168.0.253 - [30/Oct/2015:17:29:31 +0900] /manage/moneymail/process.php: contents = \r\n\r\n&lt;style&gt;\r\n	#noImg {\r\n		width:194px;\r\n		height:50px;: TAG 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: &lt;meta[[:space:]]*]

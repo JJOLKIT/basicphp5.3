@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.pc{display:block;} /*pc 노출 = 테블릿, 모바일 미노출*/
+.pcta{display:block;} /*pc, 테블릿 노출 = 모바일 미노출*/
+.mo{display:none;} /*모바일 노출 = pc,테블릿 미노출*/
+.ta{display:none;} /*테블릿, 모바일 노출 = pc 미노출*/
+
+@media screen and (max-width: 1200px){
+     .size {width:100%; padding:0 20px; box-sizing: border-box;}
+}
+@media screen and (max-width: 1024px){
+     .pc{display: none;}
+     .ta{display:block;}
+     html{font-size: 60%;}
+}
+@media screen and (max-width: 768px){
+     .mo{display:block;}
+     .pcta{display: none;}
+     html{font-size: 56%;}
+}
+@media screen and (max-width: 640px){
+     html{font-size: 54%;}
+}
+@media screen and (max-width: 480px){
+     html{font-size: 45%;}
+}
+@media screen and (max-width: 320px){
+     html{font-size: 42%;}
+}

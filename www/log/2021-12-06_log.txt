@@ -1,0 +1,149 @@
+16:01:44 192.168.0.1 /include/weblogProcess.php
+
+16:01:44 192.168.0.1 /include/weblogProcess.php
+
+16:02:06 192.168.0.1 /include/weblogProcess.php
+
+16:02:06 192.168.0.1 /include/weblogProcess.php
+
+16:02:09 192.168.0.1 /include/weblogProcess.php
+
+16:02:09 192.168.0.1 /include/weblogProcess.php
+
+16:02:11 192.168.0.1 /include/weblogProcess.php
+
+16:02:11 192.168.0.1 /include/weblogProcess.php
+
+16:02:13 192.168.0.1 /include/weblogProcess.php
+
+16:02:13 192.168.0.1 /include/weblogProcess.php
+
+16:02:20 192.168.0.1 /include/weblogProcess.php
+
+16:02:20 192.168.0.1 /include/weblogProcess.php
+
+16:02:22 192.168.0.1 /include/weblogProcess.php
+
+16:02:22 192.168.0.1 /include/weblogProcess.php
+
+16:02:29 192.168.0.1 /include/weblogProcess.php
+
+16:02:29 192.168.0.1 /include/weblogProcess.php
+
+16:02:41 192.168.0.1 /include/weblogProcess.php
+
+16:02:41 192.168.0.1 /include/weblogProcess.php
+
+16:02:46 192.168.0.1 /include/weblogProcess.php
+
+16:02:46 192.168.0.1 /include/weblogProcess.php
+
+16:02:51 192.168.0.1 /include/weblogProcess.php
+
+16:02:51 192.168.0.1 /include/weblogProcess.php
+
+16:02:54 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:02:54 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:02:54 192.168.0.1 /include/weblogProcess.php
+
+16:02:54 192.168.0.1 /include/weblogProcess.php
+
+16:03:03 192.168.0.1 /include/weblogProcess.php
+
+16:03:03 192.168.0.1 /include/weblogProcess.php
+
+16:03:23 192.168.0.1 /include/weblogProcess.php
+
+16:03:23 192.168.0.1 /include/weblogProcess.php
+
+16:03:29 192.168.0.1 /include/weblogProcess.php
+
+16:03:29 192.168.0.1 /include/weblogProcess.php
+
+16:03:34 192.168.0.1 /include/weblogProcess.php
+
+16:03:34 192.168.0.1 /include/weblogProcess.php
+
+16:03:35 192.168.0.1 /include/weblogProcess.php
+
+16:03:35 192.168.0.1 /include/weblogProcess.php
+
+16:03:37 192.168.0.1 /include/weblogProcess.php
+
+16:03:37 192.168.0.1 /include/weblogProcess.php
+
+16:03:41 192.168.0.1 /include/weblogProcess.php
+
+16:03:41 192.168.0.1 /include/weblogProcess.php
+
+16:03:44 192.168.0.1 /include/weblogProcess.php
+
+16:03:44 192.168.0.1 /include/weblogProcess.php
+
+16:03:53 192.168.0.1 /include/weblogProcess.php
+
+16:03:53 192.168.0.1 /include/weblogProcess.php
+
+16:03:57 192.168.0.1 /include/weblogProcess.php
+
+16:03:57 192.168.0.1 /include/weblogProcess.php
+
+16:04:02 192.168.0.1 /include/weblogProcess.php
+
+16:04:02 192.168.0.1 /include/weblogProcess.php
+
+16:04:03 192.168.0.1 /include/weblogProcess.php
+
+16:04:03 192.168.0.1 /include/weblogProcess.php
+
+16:04:05 192.168.0.1 /include/weblogProcess.php
+
+16:04:05 192.168.0.1 /include/weblogProcess.php
+
+16:04:06 192.168.0.1 /include/weblogProcess.php
+
+16:04:06 192.168.0.1 /include/weblogProcess.php
+
+16:04:14 192.168.0.1 /include/weblogProcess.php
+
+16:04:14 192.168.0.1 /include/weblogProcess.php
+
+16:04:15 192.168.0.1 /include/weblogProcess.php
+
+16:04:15 192.168.0.1 /include/weblogProcess.php
+
+16:04:23 192.168.0.1 /include/weblogProcess.php
+
+16:04:23 192.168.0.1 /include/weblogProcess.php
+
+16:04:48 192.168.0.1 /include/weblogProcess.php
+
+16:04:48 192.168.0.1 /include/weblogProcess.php
+
+16:04:52 192.168.0.1 /include/weblogProcess.php
+
+16:04:52 192.168.0.1 /include/weblogProcess.php
+
+16:04:59 192.168.0.1 /include/weblogProcess.php
+
+16:04:59 192.168.0.1 /include/weblogProcess.php
+
+16:05:45 192.168.0.1 /include/weblogProcess.php
+
+16:05:45 192.168.0.1 /include/weblogProcess.php
+
+16:13:06 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:13:16 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:13:22 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1

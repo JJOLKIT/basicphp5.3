@@ -1,0 +1,5 @@
+192.168.0.1 - [10/Jul/2018:12:32:52 +0900] /admin/board/postImage/process.php: imagename = 한국저작권협회.png: 허용되지 않은 확장자 파일 업로드
+192.168.0.1 - [10/Jul/2018:12:32:56 +0900] /admin/board/postImage/process.php: imagename = 한국저작권협회.png: 허용되지 않은 확장자 파일 업로드
+192.168.0.1 - [10/Jul/2018:12:32:57 +0900] /admin/board/postImage/process.php: imagename = 한국저작권협회.png: 허용되지 않은 확장자 파일 업로드
+192.168.0.1 - [10/Jul/2018:12:33:08 +0900] /admin/board/postImage/process.php: imagename = 한국저작권협회.png: 허용되지 않은 확장자 파일 업로드
+192.168.0.1 - [10/Jul/2018:15:53:35 +0900] /admin/board/gallery/process.php: imagename = 한국저작권협회.png: 허용되지 않은 확장자 파일 업로드

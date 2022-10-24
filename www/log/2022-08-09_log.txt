@@ -1,0 +1,48 @@
+16:52:00 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+16:52:00 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+16:52:00 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:06 192.168.0.1 /admin/board/gallery_ct/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:08 192.168.0.1 /admin/board/gallery_ct/category.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:13 192.168.0.1 /admin/board/gallery_ct/category.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:15 192.168.0.1 /admin/board/gallery_ct/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:24 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:25 192.168.0.1 /admin/board/gallery/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:32 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:52:32 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:33 192.168.0.1 /admin/cscenter/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:52:33 192.168.0.1 /admin/cscenter/faq/category.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:36 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:52:36 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:41 192.168.0.1 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:44 192.168.0.1 /admin/cscenter/reply2/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:47 192.168.0.1 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:52:58 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:53:04 192.168.0.1 /admin/cscenter/formmail/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:57:09 192.168.0.1 /include/weblogProcess.php
+
+16:57:09 192.168.0.1 /include/weblogProcess.php
+

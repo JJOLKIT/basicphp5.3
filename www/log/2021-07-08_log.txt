@@ -1,0 +1,45 @@
+17:28:57 192.168.0.1 /include/weblogProcess.php
+
+17:28:57 192.168.0.1 /include/weblogProcess.php
+
+17:29:04 192.168.0.1 /include/weblogProcess.php
+
+17:29:04 192.168.0.1 /include/weblogProcess.php
+
+17:29:09 192.168.0.1 /include/weblogProcess.php
+
+17:29:09 192.168.0.1 /include/weblogProcess.php
+
+17:29:15 192.168.0.1 /include/weblogProcess.php
+
+17:29:15 192.168.0.1 /include/weblogProcess.php
+
+17:29:19 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/
+17:29:19 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+17:29:20 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/view.php?no=18
+17:29:20 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+17:46:02 192.168.0.1 /include/weblogProcess.php
+
+17:46:02 192.168.0.1 /include/weblogProcess.php
+
+17:47:46 192.168.0.1 /include/weblogProcess.php
+
+17:47:46 192.168.0.1 /include/weblogProcess.php
+
+17:49:03 192.168.0.1 /admin/board/notice2/process.php
+
+			INSERT INTO notice2 (
+				name, email, title, contents, relation_url, registdate, filename, filename_org, filesize, top, newicon
+			) VALUES (
+			'»ó°ø', 
+			'', 
+			'123123',
+			'<p>12321312</p>',
+			'',  NOW(), '1625734143_HjT_2.jpg', '2.jpg', 282196, 
+			0,
+			0
+			)

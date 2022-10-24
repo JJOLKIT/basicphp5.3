@@ -1,0 +1,29 @@
+10:07:46 106.101.2.244 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND gubun = 'board'
+10:07:46 106.101.2.244 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+10:07:46 106.101.2.244 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1
+10:07:53 106.101.2.244 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+10:07:53 106.101.2.244 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+10:07:53 106.101.2.244 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:09:44 106.101.2.244 /admin/include/addFb.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND (name = '°¶·¯¸®')  AND admin_fk = 1
+10:09:46 106.101.2.244 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+10:09:46 106.101.2.244 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+10:09:46 106.101.2.244 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:09:48 106.101.2.244 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:09:50 106.101.2.244 /admin/board/gallery/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:09:55 106.101.2.244 /admin/board/gallery/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1

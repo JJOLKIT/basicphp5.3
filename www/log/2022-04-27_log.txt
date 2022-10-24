@@ -1,0 +1,232 @@
+10:54:00 106.101.3.17 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND gubun = 'board'
+10:54:00 106.101.3.17 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+10:54:00 106.101.3.17 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1
+10:54:06 106.101.3.17 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+10:54:06 106.101.3.17 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+10:54:06 106.101.3.17 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:54:33 106.101.3.17 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+10:54:33 106.101.3.17 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:54:34 106.101.3.17 /admin/board/gallery/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:54:35 106.101.3.17 /admin/site/spam/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:54:38 106.101.3.17 /admin/site/spam/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:54:51 106.101.3.17 /admin/include/addFb.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND (name = 'FAQ 카테고리 관리')  AND admin_fk = 1
+10:54:53 106.101.3.17 /admin/site/spam/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:54:57 106.101.3.17 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+10:54:57 106.101.3.17 /admin/site/popup/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:55:00 106.101.3.17 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:55:34 106.101.3.17 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM cs WHERE 1=1 AND refer = 'basicphp3' 
+10:55:34 106.101.3.17 /admin/cs/index.php
+
+			SELECT *, 
+				(SELECT COUNT(*) FROM comment WHERE tablename = 'cs' AND parent_fk = cs.no) AS comment_count
+			FROM cs
+			 WHERE 1=1 AND refer = 'basicphp3' 
+			ORDER BY registdate DESC LIMIT 0, 10 
+10:55:34 106.101.3.17 /admin/cs/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:55:58 106.101.3.17 /admin/connect/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:56:02 106.101.3.17 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:56:08 106.101.3.17 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+10:56:08 106.101.3.17 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+14:29:55 192.168.0.1 /include/weblogProcess.php
+
+14:29:55 192.168.0.1 /include/weblogProcess.php
+
+14:30:03 192.168.0.1 /include/weblogProcess.php
+
+14:30:03 192.168.0.1 /include/weblogProcess.php
+
+14:30:17 192.168.0.1 /include/weblogProcess.php
+
+14:30:17 192.168.0.1 /include/weblogProcess.php
+
+14:30:19 192.168.0.1 /include/weblogProcess.php
+
+14:30:19 192.168.0.1 /include/weblogProcess.php
+
+14:30:21 192.168.0.1 /include/weblogProcess.php
+
+14:30:21 192.168.0.1 /include/weblogProcess.php
+
+14:30:22 192.168.0.1 /include/weblogProcess.php
+
+14:30:22 192.168.0.1 /include/weblogProcess.php
+
+14:30:24 192.168.0.1 /include/weblogProcess.php
+
+14:30:24 192.168.0.1 /include/weblogProcess.php
+
+14:30:26 192.168.0.1 /include/weblogProcess.php
+
+14:30:26 192.168.0.1 /include/weblogProcess.php
+
+14:30:32 192.168.0.1 /include/weblogProcess.php
+
+14:30:32 192.168.0.1 /include/weblogProcess.php
+
+14:30:35 192.168.0.1 /include/weblogProcess.php
+
+14:30:35 192.168.0.1 /include/weblogProcess.php
+
+14:30:37 192.168.0.1 /include/weblogProcess.php
+
+14:30:37 192.168.0.1 /include/weblogProcess.php
+
+14:30:41 192.168.0.1 /include/weblogProcess.php
+
+14:30:41 192.168.0.1 /include/weblogProcess.php
+
+14:30:43 192.168.0.1 /include/weblogProcess.php
+
+14:30:43 192.168.0.1 /include/weblogProcess.php
+
+14:30:45 192.168.0.1 /include/weblogProcess.php
+
+14:30:45 192.168.0.1 /include/weblogProcess.php
+
+14:30:49 192.168.0.1 /include/weblogProcess.php
+
+14:30:49 192.168.0.1 /include/weblogProcess.php
+
+14:30:53 192.168.0.1 /include/weblogProcess.php
+
+14:30:53 192.168.0.1 /include/weblogProcess.php
+
+14:30:57 192.168.0.1 /include/weblogProcess.php
+
+14:30:57 192.168.0.1 /include/weblogProcess.php
+
+14:31:03 192.168.0.1 /include/login.php
+ SELECT COUNT(*) AS cnt FROM member WHERE secession != 1 AND id= 'test' AND password=password('test1234')
+14:31:03 192.168.0.1 /include/weblogProcess.php
+
+14:31:03 192.168.0.1 /include/weblogProcess.php
+
+14:31:09 192.168.0.1 /include/weblogProcess.php
+
+14:31:09 192.168.0.1 /include/weblogProcess.php
+
+14:31:10 192.168.0.1 /include/weblogProcess.php
+
+14:31:10 192.168.0.1 /include/weblogProcess.php
+
+14:31:11 192.168.0.1 /include/weblogProcess.php
+
+14:31:11 192.168.0.1 /include/weblogProcess.php
+
+14:31:12 192.168.0.1 /include/weblogProcess.php
+
+14:31:12 192.168.0.1 /include/weblogProcess.php
+
+14:31:13 192.168.0.1 /include/weblogProcess.php
+
+14:31:13 192.168.0.1 /include/weblogProcess.php
+
+14:31:14 192.168.0.1 /include/weblogProcess.php
+
+14:31:14 192.168.0.1 /include/weblogProcess.php
+
+14:31:18 192.168.0.1 /include/weblogProcess.php
+
+14:31:18 192.168.0.1 /include/weblogProcess.php
+
+14:31:19 192.168.0.1 /include/weblogProcess.php
+
+14:31:19 192.168.0.1 /include/weblogProcess.php
+
+14:31:20 192.168.0.1 /include/weblogProcess.php
+
+14:31:20 192.168.0.1 /include/weblogProcess.php
+
+14:35:22 192.168.0.1 /include/weblogProcess.php
+
+14:35:22 192.168.0.1 /include/weblogProcess.php
+
+14:45:51 192.168.0.1 /include/weblogProcess.php
+
+14:45:51 192.168.0.1 /include/weblogProcess.php
+
+15:30:33 192.168.0.1 /include/weblogProcess.php
+
+15:30:33 192.168.0.1 /include/weblogProcess.php
+
+15:30:36 192.168.0.1 /include/weblogProcess.php
+
+15:30:36 192.168.0.1 /include/weblogProcess.php
+
+15:30:37 192.168.0.1 /include/weblogProcess.php
+
+15:30:37 192.168.0.1 /include/weblogProcess.php
+
+15:30:38 192.168.0.1 /include/weblogProcess.php
+
+15:30:38 192.168.0.1 /include/weblogProcess.php
+
+15:34:41 192.168.0.1 /include/weblogProcess.php
+
+15:34:41 192.168.0.1 /include/weblogProcess.php
+
+15:34:52 192.168.0.1 /include/weblogProcess.php
+
+15:34:52 192.168.0.1 /include/weblogProcess.php
+
+16:17:31 192.168.0.1 /include/weblogProcess.php
+
+16:17:31 192.168.0.1 /include/weblogProcess.php
+
+16:17:32 192.168.0.1 /include/weblogProcess.php
+
+16:17:32 192.168.0.1 /include/weblogProcess.php
+
+16:17:34 192.168.0.1 /include/weblogProcess.php
+
+16:17:34 192.168.0.1 /include/weblogProcess.php
+
+16:17:53 192.168.0.1 /include/weblogProcess.php
+
+16:17:53 192.168.0.1 /include/weblogProcess.php
+
+16:27:20 192.168.0.1 /include/weblogProcess.php
+
+16:27:20 192.168.0.1 /include/weblogProcess.php
+
+16:27:27 192.168.0.1 /include/weblogProcess.php
+
+16:27:27 192.168.0.1 /include/weblogProcess.php
+
+16:27:28 192.168.0.1 /include/weblogProcess.php
+
+16:27:28 192.168.0.1 /include/weblogProcess.php
+
+16:27:29 192.168.0.1 /include/weblogProcess.php
+
+16:27:29 192.168.0.1 /include/weblogProcess.php
+
+16:27:30 192.168.0.1 /include/weblogProcess.php
+
+16:27:30 192.168.0.1 /include/weblogProcess.php
+

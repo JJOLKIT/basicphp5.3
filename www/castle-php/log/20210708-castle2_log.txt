@@ -1,0 +1,2 @@
+192.168.0.1 - [08/Jul/2021:17:14:13 +0900] /admin/index.php: cookie_adminid = SELECT * FROM admin: SQL_Injection 공격 패턴 탐지
+192.168.0.1 - [08/Jul/2021:17:28:50 +0900] /board/notice/index.php: cookie_adminid = SELECT * FROM admin: SQL_Injection 공격 패턴 탐지

@@ -1,0 +1,62 @@
+12:11:35 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/menu.php
+12:11:35 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:12:07 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/menu.php
+12:12:07 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:12:12 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/reply2/index.php
+12:12:12 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:12:21 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/menu.php
+12:12:21 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:19:28 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/index.php
+12:19:28 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:23:51 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/index.php
+12:23:51 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:27:07 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/index.php
+12:27:07 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:35:04 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/menu.php
+12:35:04 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:35:13 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/menu.php
+12:35:13 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:35:22 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/consult/index.php
+12:35:22 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:35:31 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/consult/index.php
+12:35:31 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:35:36 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/consult/index.php
+12:35:36 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+13:07:25 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+13:07:25 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+13:07:25 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/menu.php
+13:07:25 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+23:19:38 125.142.102.45 /include/weblogProcess.php
+
+23:19:38 125.142.102.45 /include/weblogProcess.php
+

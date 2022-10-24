@@ -1,0 +1,88 @@
+{
+	"company": [{
+			"name": "",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": ""
+		},
+		[{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			},
+			{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			}
+		]
+	],
+
+	"business": [{
+			"name": "",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": ""
+		},
+		[{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			},
+			{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			}
+		]
+	],
+
+	"support": [{
+			"name": "",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": ""
+		},
+		[{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			},
+			{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			}
+		]
+	],
+	"contact": [{
+			"name": "",
+			"img": "",
+			"refer1": "",
+			"refer2": "",
+			"link": ""
+		},
+		[{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			},
+			{
+				"name": "",
+				"refer1": "",
+				"img": "",
+				"link": ""
+			}
+		]
+	]
+}

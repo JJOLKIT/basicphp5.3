@@ -1,0 +1,854 @@
+12:04:18 192.168.0.1 /include/weblogProcess.php
+
+12:04:18 192.168.0.1 /include/weblogProcess.php
+
+12:04:28 192.168.0.1 /include/weblogProcess.php
+
+12:04:28 192.168.0.1 /include/weblogProcess.php
+
+12:04:34 192.168.0.1 /include/weblogProcess.php
+
+12:04:34 192.168.0.1 /include/weblogProcess.php
+
+12:04:36 192.168.0.1 /include/weblogProcess.php
+
+12:04:36 192.168.0.1 /include/weblogProcess.php
+
+12:04:41 192.168.0.1 /include/weblogProcess.php
+
+12:04:41 192.168.0.1 /include/weblogProcess.php
+
+12:06:00 192.168.0.1 /include/weblogProcess.php
+
+12:06:00 192.168.0.1 /include/weblogProcess.php
+
+12:06:32 192.168.0.1 /include/weblogProcess.php
+
+12:06:32 192.168.0.1 /include/weblogProcess.php
+
+12:06:39 192.168.0.1 /include/weblogProcess.php
+
+12:06:39 192.168.0.1 /include/weblogProcess.php
+
+12:06:43 192.168.0.1 /include/weblogProcess.php
+
+12:06:43 192.168.0.1 /include/weblogProcess.php
+
+12:06:51 192.168.0.1 /include/weblogProcess.php
+
+12:06:51 192.168.0.1 /include/weblogProcess.php
+
+12:06:54 192.168.0.1 /include/weblogProcess.php
+
+12:06:54 192.168.0.1 /include/weblogProcess.php
+
+12:06:58 192.168.0.1 /include/weblogProcess.php
+
+12:06:58 192.168.0.1 /include/weblogProcess.php
+
+12:07:06 192.168.0.1 /include/weblogProcess.php
+
+12:07:06 192.168.0.1 /include/weblogProcess.php
+
+12:07:09 192.168.0.1 /include/weblogProcess.php
+
+12:07:09 192.168.0.1 /include/weblogProcess.php
+
+16:54:24 192.168.0.1 /include/weblogProcess.php
+
+16:54:24 192.168.0.1 /include/weblogProcess.php
+
+16:54:27 192.168.0.1 /include/weblogProcess.php
+
+16:54:27 192.168.0.1 /include/weblogProcess.php
+
+16:54:36 192.168.0.1 /include/weblogProcess.php
+
+16:54:36 192.168.0.1 /include/weblogProcess.php
+
+16:54:48 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270268767458,
+			'1',
+			'사용자7458', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:55:26 192.168.0.1 /include/weblogProcess.php
+
+16:55:26 192.168.0.1 /include/weblogProcess.php
+
+16:55:35 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'안녕하세요',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:56:58 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+16:57:15 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'zzzzzzzzz',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:57:18 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'안녕하세요 관리자님',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:57:19 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'Like this',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:57:23 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'제가 9917입니다',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:57:25 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'Wow',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:57:27 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'Amazing',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:57:28 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'근데 이게 같은거 아니에여???',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:57:31 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'다른거에여??',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:57:35 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'같은건데',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:57:39 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'새 문의하기 같이',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:57:43 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'Send보다는',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:57:46 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'Save에 가깝죠',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:58:08 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'그래도 어떤 어플이나 프로그램 설치 없이 그 웹사이트에서 바로 실행 가능하고 언어 상관 없이',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:58:16 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'사용할 수 있는 그런 장점이 있는거죠..?ㅋㅋㅋㅋ',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:58:21 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'예아 Yeah ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:58:25 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'오예!!!',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:58:29 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'그럼 된것 같아요ㅜㅜ',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:58:36 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'영문 중문 다국어 사이트 만드는데',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:58:44 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'각각 다른 채팅 사이트 API연동하겠다고 해서',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:58:48 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'근데 이게 ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:58:52 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'관리자에서 보면',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:58:53 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'그것보다는 이걸 추천하는게 낫겠다 싶었거든요',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:58:58 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'구분하기 힘들긴해요',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:03 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'지금 채팅 중인지 아닌지',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:04 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'분간 힘듬',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:10 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'http://basicphp2.sanggong.net/admin/chat/',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:16 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'아 그래여?ㅋㅋㅋㅋㅋ ',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+16:59:22 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'아근데',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:22 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+16:59:24 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'제가',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:25 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'만들고',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:27 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'직접 ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:28 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'써본건',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:29 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'처음이에요',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:32 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'사람과 대화한건 처음임',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:37 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:39 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'맨날',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:41 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'혼자',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:43 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'대화했었는데',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+16:59:55 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'와우 ㅋㅋㅋ',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:00:04 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'저 퍼스트 펄슨이네여',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:00:18 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'거의뭐 ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:00:19 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'그전에는',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:00:22 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'심심이 수준이었는데 ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:00:23 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'혼자노느라 ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:00:33 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'ㅋㅋㅋ심심이ㅋㅋㅋㅋㅋㅋㅋ',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:00:34 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'세상과 소통ing ...',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:00:47 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'이 대화는',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:00:47 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'속세로 나오세여 상공 관리자님^^',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:00:52 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'대화가 종료되는대로',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:00:57 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'폭파하겠습니다',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:01:05 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'방금 진짜 AI 같았어여...',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:01:08 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'소름....',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:01:13 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'알겠읍니다',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:01:15 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'ㅋㅋㅋㅋㅋㅋㅋㅋ',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:01:16 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'네네',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:01:30 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'심심이 기능 알려주셔서 감사합니다:)',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:06:41 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:06:50 192.168.0.1 /include/weblogProcess.php
+
+17:06:50 192.168.0.1 /include/weblogProcess.php
+
+17:06:51 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/
+17:06:51 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+17:06:55 192.168.0.1 /include/weblogProcess.php
+
+17:06:55 192.168.0.1 /include/weblogProcess.php
+
+17:06:56 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/
+17:06:56 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+17:07:40 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'과장님!!! ',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:07:45 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'혹시 벌써 폭파 됐나여',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:08:06 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'이거 근데 사용자 이름도 바꿀 수 있어요...? 아이디나 본인이 설정한 이름이나 뭐나.....',
+			'사용자9917', 
+			'2021-07-23',  NOW(), 
+			0
+			)
+17:10:38 192.168.0.1 /include/weblogProcess.php
+
+17:10:38 192.168.0.1 /include/weblogProcess.php
+
+17:10:47 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/
+17:10:47 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+17:10:49 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/view.php?no=21
+17:10:49 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+17:26:35 192.168.0.1 /include/weblogProcess.php
+
+17:26:35 192.168.0.1 /include/weblogProcess.php
+
+17:26:38 192.168.0.1 /include/weblogProcess.php
+
+17:26:38 192.168.0.1 /include/weblogProcess.php
+
+17:26:43 211.110.189.159 /include/weblogProcess.php
+
+17:26:43 211.110.189.159 /include/weblogProcess.php
+
+17:26:56 192.168.0.1 /include/weblogProcess.php
+
+17:26:56 192.168.0.1 /include/weblogProcess.php
+
+17:39:58 192.168.0.1 /admin/chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16270269269917,
+			'주임님',
+			'상공', 
+			'2021-07-23',  NOW(), 
+			1
+			)
+17:40:35 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:40:43 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:40:45 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:41:22 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:41:23 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 

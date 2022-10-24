@@ -1,0 +1,3 @@
+192.168.0.253 - [18/Dec/2014:16:34:09 +0900] /manage/email/member.php: sval = delete from: SQL_Injection 공격 패턴 탐지
+192.168.0.253 - [18/Dec/2014:16:34:36 +0900] /manage/email/member.php: sval = sex: 금칙어 탐지
+192.168.0.253 - [18/Dec/2014:17:00:17 +0900] /manage/email/member.php: sval = 개새끼: 금칙어 탐지

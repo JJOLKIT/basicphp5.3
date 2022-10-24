@@ -1,0 +1,21 @@
+10:22:03 192.168.0.1 /include/weblogProcess.php
+
+10:22:03 192.168.0.1 /include/weblogProcess.php
+
+17:07:08 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:07:16 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+17:07:22 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+17:07:26 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+17:09:20 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+17:11:11 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1

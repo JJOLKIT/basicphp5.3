@@ -1,0 +1,512 @@
+11:36:15 192.168.0.1 /include/weblogProcess.php
+
+11:36:15 192.168.0.1 /include/weblogProcess.php
+
+11:47:12 192.168.0.1 /include/weblogProcess.php
+
+11:47:12 192.168.0.1 /include/weblogProcess.php
+
+11:47:20 192.168.0.1 /include/weblogProcess.php
+
+11:47:20 192.168.0.1 /include/weblogProcess.php
+
+11:47:23 192.168.0.1 /include/weblogProcess.php
+
+11:47:23 192.168.0.1 /include/weblogProcess.php
+
+11:47:47 192.168.0.1 /include/weblogProcess.php
+
+11:47:47 192.168.0.1 /include/weblogProcess.php
+
+11:48:05 192.168.0.1 /include/weblogProcess.php
+
+11:48:05 192.168.0.1 /include/weblogProcess.php
+
+11:48:20 192.168.0.1 /include/weblogProcess.php
+
+11:48:20 192.168.0.1 /include/weblogProcess.php
+
+11:48:22 192.168.0.1 /include/weblogProcess.php
+
+11:48:22 192.168.0.1 /include/weblogProcess.php
+
+11:48:24 192.168.0.1 /include/weblogProcess.php
+
+11:48:24 192.168.0.1 /include/weblogProcess.php
+
+11:48:25 192.168.0.1 /include/weblogProcess.php
+
+11:48:25 192.168.0.1 /include/weblogProcess.php
+
+11:48:26 192.168.0.1 /include/weblogProcess.php
+
+11:48:26 192.168.0.1 /include/weblogProcess.php
+
+11:48:27 192.168.0.1 /include/weblogProcess.php
+
+11:48:27 192.168.0.1 /include/weblogProcess.php
+
+11:48:29 192.168.0.1 /include/weblogProcess.php
+
+11:48:29 192.168.0.1 /include/weblogProcess.php
+
+11:48:29 192.168.0.1 /include/weblogProcess.php
+
+11:48:29 192.168.0.1 /include/weblogProcess.php
+
+11:48:30 192.168.0.1 /include/weblogProcess.php
+
+11:48:30 192.168.0.1 /include/weblogProcess.php
+
+11:48:46 192.168.0.1 /include/weblogProcess.php
+
+11:48:46 192.168.0.1 /include/weblogProcess.php
+
+11:48:47 192.168.0.1 /include/weblogProcess.php
+
+11:48:47 192.168.0.1 /include/weblogProcess.php
+
+11:48:48 192.168.0.1 /include/weblogProcess.php
+
+11:48:48 192.168.0.1 /include/weblogProcess.php
+
+11:48:49 192.168.0.1 /include/weblogProcess.php
+
+11:48:49 192.168.0.1 /include/weblogProcess.php
+
+11:48:49 192.168.0.1 /include/weblogProcess.php
+
+11:48:49 192.168.0.1 /include/weblogProcess.php
+
+11:48:50 192.168.0.1 /include/weblogProcess.php
+
+11:48:50 192.168.0.1 /include/weblogProcess.php
+
+11:49:38 192.168.0.1 /include/weblogProcess.php
+
+11:49:38 192.168.0.1 /include/weblogProcess.php
+
+11:49:44 192.168.0.1 /include/weblogProcess.php
+
+11:49:44 192.168.0.1 /include/weblogProcess.php
+
+11:50:55 192.168.0.1 /include/weblogProcess.php
+
+11:50:55 192.168.0.1 /include/weblogProcess.php
+
+11:51:12 192.168.0.1 /include/weblogProcess.php
+
+11:51:12 192.168.0.1 /include/weblogProcess.php
+
+12:03:22 192.168.0.1 /include/weblogProcess.php
+
+12:03:22 192.168.0.1 /include/weblogProcess.php
+
+14:58:02 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+14:58:57 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+14:59:08 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:02:15 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:02:17 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:02:56 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:03:25 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:03:38 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:11:34 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+15:12:07 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+15:12:29 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+15:42:06 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:43:16 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:44:21 192.168.0.1 /admin/board/faq/edit.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:44:24 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:44:26 192.168.0.1 /admin/board/faq/write.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:44:29 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:51:36 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+15:51:45 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:51:56 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+15:51:58 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+15:53:10 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:05:24 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:05:31 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:05:33 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:16:55 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:18:39 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:21:32 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:31:16 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:31:29 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:31:56 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:36:55 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+16:45:43 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+16:48:39 192.168.0.1 /include/weblogProcess.php
+
+16:48:39 192.168.0.1 /include/weblogProcess.php
+
+16:49:25 192.168.0.1 /include/weblogProcess.php
+
+16:49:25 192.168.0.1 /include/weblogProcess.php
+
+16:51:20 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:05:12 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:05:58 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:06:08 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:07:29 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:08:03 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:08:07 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:08:12 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+17:50:44 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:51:16 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:51:42 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:51:44 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:52:05 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:52:34 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:52:39 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:52:49 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:52:51 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:53:16 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:53:18 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:53:30 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:53:57 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:53:59 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:55:03 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+17:55:36 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+17:57:03 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:57:46 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:58:02 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:58:24 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:58:32 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:58:40 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:58:41 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1 AND registdate > '2021-12-10'
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:58:43 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1 AND registdate > '2021-10-10'
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+17:59:51 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1 AND registdate > '2021-10-10'
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+18:01:20 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:22:10 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:22:32 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:22:35 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:22:59 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:23:09 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:23:11 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:23:13 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:23:32 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:23:37 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+18:24:51 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:24:52 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:25:03 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:25:11 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:25:12 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:25:16 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+18:33:52 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:33:53 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:36:06 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:37:32 192.168.0.1 /admin/board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:37:46 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:37:59 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:38:16 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+18:38:34 192.168.0.1 /admin/board/popup/index.php
+ SELECT COUNT(*) AS cnt FROM popup WHERE 1=1
+18:45:53 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:46:43 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:46:47 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 

@@ -1,0 +1,1 @@
+127.0.0.1 - [07/Dec/2016:01:57:12 +0900] /manage/board/notice/process.php: filename = 1강-빅데이터및R도구소개 (1).pptx: 허용되지 않은 확장자 파일 업로드

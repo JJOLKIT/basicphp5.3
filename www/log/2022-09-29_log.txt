@@ -1,0 +1,14 @@
+09:56:56 192.168.0.1 /include/weblogProcess.php
+
+09:56:56 192.168.0.1 /include/weblogProcess.php
+
+09:57:04 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+09:57:04 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+09:57:04 192.168.0.1 /include/weblogProcess.php
+
+09:57:04 192.168.0.1 /include/weblogProcess.php
+

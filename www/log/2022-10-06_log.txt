@@ -1,0 +1,126 @@
+15:14:10 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+15:14:10 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+15:14:10 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+15:14:14 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+15:45:31 192.168.0.1 /include/weblogProcess.php
+
+15:45:31 192.168.0.1 /include/weblogProcess.php
+
+15:47:29 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+15:47:49 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+15:48:36 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:03:03 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:04:41 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:05:49 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:05:50 192.168.0.1 /admin/board/notice/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:05:53 192.168.0.1 /admin/board/notice/edit.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:08:03 192.168.0.1 /admin/board/gallery/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:08:05 192.168.0.1 /admin/board/gallery/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+16:11:51 192.168.0.1 /include/weblogProcess.php
+
+16:11:51 192.168.0.1 /include/weblogProcess.php
+
+16:38:12 192.168.0.1 /include/weblogProcess.php
+
+16:38:12 192.168.0.1 /include/weblogProcess.php
+
+16:38:21 192.168.0.1 /include/weblogProcess.php
+
+16:38:21 192.168.0.1 /include/weblogProcess.php
+
+16:38:37 192.168.0.1 /include/weblogProcess.php
+
+16:38:37 192.168.0.1 /include/weblogProcess.php
+
+16:38:43 192.168.0.1 /include/weblogProcess.php
+
+16:38:43 192.168.0.1 /include/weblogProcess.php
+
+16:38:59 192.168.0.1 /include/weblogProcess.php
+
+16:38:59 192.168.0.1 /include/weblogProcess.php
+
+16:39:20 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/
+16:39:20 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+16:42:51 192.168.0.1 /include/weblogProcess.php
+
+16:42:51 192.168.0.1 /include/weblogProcess.php
+
+17:13:00 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+17:13:00 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+17:13:00 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+17:13:03 192.168.0.1 /admin/member/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+17:13:05 192.168.0.1 /admin/member/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+17:14:29 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+17:14:31 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:40:56 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+18:40:56 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+18:40:56 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:41:00 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:41:02 192.168.0.1 /admin/board/notice/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+18:47:51 192.168.0.1 /include/weblogProcess.php
+
+18:47:51 192.168.0.1 /include/weblogProcess.php
+
+20:15:01 192.168.0.1 /include/weblogProcess.php
+
+20:15:01 192.168.0.1 /include/weblogProcess.php
+
+20:15:05 192.168.0.1 /include/weblogProcess.php
+
+20:15:05 192.168.0.1 /include/weblogProcess.php
+
+20:15:28 192.168.0.1 /include/weblogProcess.php
+
+20:15:28 192.168.0.1 /include/weblogProcess.php
+
+20:15:32 192.168.0.1 /include/weblogProcess.php
+
+20:15:32 192.168.0.1 /include/weblogProcess.php
+
+20:15:46 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+20:15:46 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+20:15:46 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+20:15:51 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+20:15:53 192.168.0.1 /admin/board/notice/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+20:15:57 192.168.0.1 /admin/board/notice/edit.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+20:17:13 192.168.0.1 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1

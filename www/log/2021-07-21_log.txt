@@ -1,0 +1,152 @@
+08:14:28 110.70.16.87 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/gallery/
+08:14:28 110.70.16.87 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:24:51 192.168.0.1 /include/weblogProcess.php
+
+12:24:51 192.168.0.1 /include/weblogProcess.php
+
+12:25:23 192.168.0.1 /include/weblogProcess.php
+
+12:25:23 192.168.0.1 /include/weblogProcess.php
+
+12:25:30 192.168.0.1 /include/weblogProcess.php
+
+12:25:30 192.168.0.1 /include/weblogProcess.php
+
+12:25:37 192.168.0.1 /include/weblogProcess.php
+
+12:25:37 192.168.0.1 /include/weblogProcess.php
+
+12:26:40 192.168.0.1 /include/weblogProcess.php
+
+12:26:40 192.168.0.1 /include/weblogProcess.php
+
+12:27:43 192.168.0.1 /include/weblogProcess.php
+
+12:27:43 192.168.0.1 /include/weblogProcess.php
+
+12:27:55 192.168.0.1 /include/weblogProcess.php
+
+12:27:55 192.168.0.1 /include/weblogProcess.php
+
+12:28:17 192.168.0.1 /include/weblogProcess.php
+
+12:28:17 192.168.0.1 /include/weblogProcess.php
+
+12:29:18 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/mypage/index.php
+12:29:18 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:29:21 192.168.0.1 /include/login.php
+ SELECT COUNT(*) AS cnt FROM member WHERE secession != 1 AND id= 'sanggong' AND password=password('sanggong1121!')
+12:29:24 192.168.0.1 /include/weblogProcess.php
+
+12:29:24 192.168.0.1 /include/weblogProcess.php
+
+12:29:29 192.168.0.1 /include/login.php
+ SELECT COUNT(*) AS cnt FROM member WHERE secession != 1 AND id= 'sanggong' AND password=password('sanggong1121!')
+12:29:30 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/include/login.php
+12:29:30 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:29:36 192.168.0.1 /include/login.php
+ SELECT COUNT(*) AS cnt FROM member WHERE secession != 1 AND id= 'test' AND password=password('test1234')
+12:30:44 192.168.0.1 /admin/member/process.php
+
+			INSERT INTO member
+				(id, password, name, tel, cell, email,
+				zipcode, addr0, addr1, secession, registdate)
+			VALUES
+				('ghostsim82', password('alsk1204'), '±è¿ì¼·', '', '010-1234-5678', 'kws@sanggong.co.kr',
+				'', '', '', '',  NOW() )
+12:30:55 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/mypage/index.php
+12:30:55 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:30:57 192.168.0.1 /include/login.php
+ SELECT COUNT(*) AS cnt FROM member WHERE secession != 1 AND id= 'ghostsim82' AND password=password('alsk1204')
+12:30:57 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/include/login.php
+12:30:57 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:31:14 211.249.40.5 /include/weblogProcess.php
+
+12:31:14 211.249.40.5 /include/weblogProcess.php
+
+12:31:15 211.249.40.13 /include/weblogProcess.php
+
+12:31:15 211.249.40.13 /include/weblogProcess.php
+
+12:31:19 192.168.0.1 /include/weblogProcess.php
+
+12:31:19 192.168.0.1 /include/weblogProcess.php
+
+12:31:37 192.168.0.1 /include/weblogProcess.php
+
+12:31:37 192.168.0.1 /include/weblogProcess.php
+
+12:32:59 192.168.0.1 /include/weblogProcess.php
+
+12:32:59 192.168.0.1 /include/weblogProcess.php
+
+12:33:01 192.168.0.1 /include/weblogProcess.php
+
+12:33:01 192.168.0.1 /include/weblogProcess.php
+
+12:33:01 192.168.0.1 /include/weblogProcess.php
+
+12:33:01 192.168.0.1 /include/weblogProcess.php
+
+12:33:03 192.168.0.1 /include/weblogProcess.php
+
+12:33:03 192.168.0.1 /include/weblogProcess.php
+
+12:33:19 192.168.0.1 /include/weblogProcess.php
+
+12:33:19 192.168.0.1 /include/weblogProcess.php
+
+12:33:35 192.168.0.1 /include/weblogProcess.php
+
+12:33:35 192.168.0.1 /include/weblogProcess.php
+
+12:33:40 192.168.0.1 /include/weblogProcess.php
+
+12:33:40 192.168.0.1 /include/weblogProcess.php
+
+12:33:43 192.168.0.1 /include/weblogProcess.php
+
+12:33:43 192.168.0.1 /include/weblogProcess.php
+
+12:33:46 192.168.0.1 /include/weblogProcess.php
+
+12:33:46 192.168.0.1 /include/weblogProcess.php
+
+12:33:47 192.168.0.1 /include/weblogProcess.php
+
+12:33:47 192.168.0.1 /include/weblogProcess.php
+
+12:33:48 192.168.0.1 /include/weblogProcess.php
+
+12:33:48 192.168.0.1 /include/weblogProcess.php
+
+12:33:51 192.168.0.1 /include/weblogProcess.php
+
+12:33:51 192.168.0.1 /include/weblogProcess.php
+
+12:33:52 192.168.0.1 /include/weblogProcess.php
+
+12:33:52 192.168.0.1 /include/weblogProcess.php
+
+12:35:25 192.168.0.1 /include/weblogProcess.php
+
+12:35:25 192.168.0.1 /include/weblogProcess.php
+
+12:35:26 192.168.0.1 /include/weblogProcess.php
+
+12:35:26 192.168.0.1 /include/weblogProcess.php
+
+12:49:43 192.168.0.1 /include/weblogProcess.php
+
+12:49:43 192.168.0.1 /include/weblogProcess.php
+

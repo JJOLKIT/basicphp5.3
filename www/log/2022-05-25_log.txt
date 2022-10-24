@@ -1,0 +1,89 @@
+10:06:50 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND gubun = 'board'
+10:06:50 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+10:06:50 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1
+10:06:54 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+10:06:54 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+10:06:54 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:07:00 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+10:07:54 192.168.0.1 /include/weblogProcess.php
+
+10:07:54 192.168.0.1 /include/weblogProcess.php
+
+10:07:58 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/
+10:07:58 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+10:08:15 192.168.0.1 /include/weblogProcess.php
+
+10:08:15 192.168.0.1 /include/weblogProcess.php
+
+10:08:36 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/
+10:08:36 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:10:24 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/view.php?no=28
+11:10:24 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:10:25 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/index.php
+11:10:25 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:16:02 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/index.php
+11:16:02 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:16:43 192.168.0.1 /board/reply2/process.php
+
+			INSERT INTO reply2 (
+				member_fk, gno, ono, nested, password, name, cell, email, title, contents, relation_url, registdate, top, main, newicon, secret
+			) VALUES (
+				0, 2, 0, 0, password('123456'), '김상담', '010-1234-1234', 'sangdam@naver.com', '상담요청', '<p>상담요청합니다!</p>', '', NOW(),  0, 0, 0, 1
+			)
+11:16:44 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/process.php
+11:16:44 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:16:52 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/index.php
+11:16:52 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:17:09 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:17:11 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:17:11 192.168.0.1 /admin/cscenter/consult/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:17:13 192.168.0.1 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:17:15 192.168.0.1 /admin/cscenter/reply2/view.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:17:18 192.168.0.1 /admin/cscenter/reply2/reply.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:17:28 192.168.0.1 /admin/cscenter/reply2/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:17:30 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/index.php
+11:17:30 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:17:32 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/index.php
+11:17:32 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:17:33 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/index.php
+11:17:33 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net
+11:27:49 192.168.0.1 /include/weblogProcess.php
+http://basicphp3.sanggong.net/board/reply2/index.php
+11:27:49 192.168.0.1 /include/weblogProcess.php
+basicphp3.sanggong.net

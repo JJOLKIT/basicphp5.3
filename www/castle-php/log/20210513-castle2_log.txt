@@ -1,0 +1,2 @@
+192.168.0.1 - [13/May/2021:11:32:54 +0900] /board/notice/index.php: SESSIONID_newweblog = 1610439413034: SQL_Injection 공격 패턴 탐지
+192.168.0.1 - [13/May/2021:11:32:55 +0900] /board/notice/index.php: SESSIONID_newweblog = 1610439413034: SQL_Injection 공격 패턴 탐지

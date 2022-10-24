@@ -1,0 +1,34 @@
+09:59:58 223.38.55.234 /include/weblogProcess.php
+
+09:59:58 223.38.55.234 /include/weblogProcess.php
+
+10:00:00 223.38.55.234 /include/weblogProcess.php
+
+10:00:00 223.38.55.234 /include/weblogProcess.php
+
+10:16:22 192.168.0.1 /include/weblogProcess.php
+
+10:16:22 192.168.0.1 /include/weblogProcess.php
+
+10:21:35 192.168.0.1 /include/weblogProcess.php
+
+10:21:35 192.168.0.1 /include/weblogProcess.php
+
+11:17:03 192.168.0.1 /include/weblogProcess.php
+
+11:17:03 192.168.0.1 /include/weblogProcess.php
+
+15:30:40 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:30:40 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+15:30:40 192.168.0.1 /include/weblogProcess.php
+
+15:30:40 192.168.0.1 /include/weblogProcess.php
+
+15:31:26 192.168.0.1 /include/weblogProcess.php
+
+15:31:26 192.168.0.1 /include/weblogProcess.php
+

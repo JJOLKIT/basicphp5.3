@@ -1,0 +1,34 @@
+11:35:58 192.168.0.1 /include/weblogProcess.php
+
+11:35:58 192.168.0.1 /include/weblogProcess.php
+
+11:36:19 192.168.0.1 /include/weblogProcess.php
+
+11:36:19 192.168.0.1 /include/weblogProcess.php
+
+11:36:21 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/board/notice/
+11:36:21 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+12:21:24 192.168.0.1 /include/weblogProcess.php
+
+12:21:24 192.168.0.1 /include/weblogProcess.php
+
+12:21:41 192.168.0.1 /include/weblogProcess.php
+
+12:21:41 192.168.0.1 /include/weblogProcess.php
+
+12:21:51 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+12:21:51 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+12:21:51 192.168.0.1 /include/weblogProcess.php
+
+12:21:51 192.168.0.1 /include/weblogProcess.php
+
+12:21:59 192.168.0.1 /include/weblogProcess.php
+
+12:21:59 192.168.0.1 /include/weblogProcess.php
+

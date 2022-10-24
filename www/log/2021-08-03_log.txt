@@ -1,0 +1,20 @@
+10:31:22 192.168.0.1 /include/weblogProcess.php
+
+10:31:22 192.168.0.1 /include/weblogProcess.php
+
+18:22:21 192.168.0.1 /include/weblogProcess.php
+
+18:22:21 192.168.0.1 /include/weblogProcess.php
+
+18:22:37 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/mypage/
+18:22:37 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net
+18:22:39 192.168.0.1 /include/login.php
+ SELECT COUNT(*) AS cnt FROM member WHERE secession != 1 AND id= 'test' AND password=password('test1234')
+18:22:42 192.168.0.1 /include/login.php
+ SELECT COUNT(*) AS cnt FROM member WHERE secession != 1 AND id= 'test2' AND password=password('test1234')
+18:22:43 192.168.0.1 /include/weblogProcess.php
+http://basicphp2.sanggong.net/include/login.php
+18:22:43 192.168.0.1 /include/weblogProcess.php
+basicphp2.sanggong.net

@@ -1,0 +1,2 @@
+13:05:44 192.168.0.1 /admin/manage/manager/write.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1

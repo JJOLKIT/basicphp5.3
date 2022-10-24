@@ -1,0 +1,1 @@
+192.168.0.1 - [14/Jul/2021:14:53:31 +0900] /board/notice/index.php: sval = select * from: SQL_Injection 공격 패턴 탐지

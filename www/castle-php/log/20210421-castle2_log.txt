@@ -1,0 +1,1 @@
+14.5.241.42 - [21/Apr/2021:18:58:59 +0900] /admin/category/brand/process.php: filename = AP 21SS.psd: 허용되지 않은 확장자 파일 업로드

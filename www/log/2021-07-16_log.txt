@@ -1,0 +1,42 @@
+16:27:05 192.168.0.1 /include/weblogProcess.php
+
+16:27:05 192.168.0.1 /include/weblogProcess.php
+
+16:27:07 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:27:07 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:27:07 192.168.0.1 /include/weblogProcess.php
+
+16:27:07 192.168.0.1 /include/weblogProcess.php
+
+16:39:14 192.168.0.1 /include/weblogProcess.php
+http://bo.sanggong.co.kr/
+16:39:14 192.168.0.1 /include/weblogProcess.php
+bo.sanggong.co.kr
+16:39:14 192.168.0.1 /include/weblogProcess.php
+s
+16:39:14 192.168.0.1 /include/weblogProcess.php
+
+			INSERT INTO weblog (
+				connectid,con_host,con_search,con_ip 
+			) VALUES (
+				'1626421155927', 'http://bo.sanggong.co.kr/', '', '192.168.0.1')
+16:39:14 192.168.0.1 /include/weblogProcess.php
+e
+17:30:03 192.168.0.1 /include/weblogProcess.php
+
+17:30:03 192.168.0.1 /include/weblogProcess.php
+
+17:30:10 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:30:10 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+17:30:10 192.168.0.1 /include/weblogProcess.php
+
+17:30:10 192.168.0.1 /include/weblogProcess.php
+

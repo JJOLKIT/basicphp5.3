@@ -1,0 +1,7 @@
+11:26:24 192.168.0.1 /admin/board/faq/category.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+16:14:52 192.168.0.1 /include/weblogProcess.php
+
+16:14:52 192.168.0.1 /include/weblogProcess.php
+

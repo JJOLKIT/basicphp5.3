@@ -1,0 +1,2 @@
+21:10:34 211.249.218.251 /admin/board/notice/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1

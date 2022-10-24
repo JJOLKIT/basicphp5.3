@@ -1,0 +1,137 @@
+10:12:08 192.168.0.1 /include/weblogProcess.php
+
+10:12:08 192.168.0.1 /include/weblogProcess.php
+
+12:48:13 192.168.0.1 /include/weblogProcess.php
+
+12:48:13 192.168.0.1 /include/weblogProcess.php
+
+12:49:44 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:49:58 192.168.0.1 /include/weblogProcess.php
+
+12:49:58 192.168.0.1 /include/weblogProcess.php
+
+12:50:02 192.168.0.1 /include/weblogProcess.php
+
+12:50:02 192.168.0.1 /include/weblogProcess.php
+
+12:50:10 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16395402026398,
+			'123123123',
+			'사용자6398', 
+			'2021-12-15',  NOW(), 
+			0
+			)
+12:50:13 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:51:37 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:51:47 210.220.79.0 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:52:13 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:52:13 192.168.0.1 /chat/process.php
+
+			INSERT INTO chat (
+				session_fk, msg, name, comdate,  registdate, gb
+			) VALUES (
+			16395402026398,
+			'123',
+			'사용자6398', 
+			'2021-12-15',  NOW(), 
+			0
+			)
+12:52:16 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:52:26 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:52:54 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:53:00 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:53:01 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:53:03 192.168.0.1 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 
+12:53:16 192.168.0.1 /include/weblogProcess.php
+
+12:53:16 192.168.0.1 /include/weblogProcess.php
+
+15:07:49 192.168.0.1 /admin/manage/manager/index.php
+
+			SELECT *,
+			IFNULL((SELECT grade_name FROM admin_grade WHERE no = admin.grade),'') AS grade_name
+			FROM admin
+			 WHERE no > 1 
+			ORDER BY no DESC LIMIT 0, 10 
+18:52:00 192.168.0.1 /include/weblogProcess.php
+
+18:52:00 192.168.0.1 /include/weblogProcess.php
+
+21:44:00 121.53.181.253 /admin/chat/index.php
+
+			SELECT *
+			FROM chat
+			 WHERE 1=1
+			GROUP BY session_fk
+			ORDER BY registdate DESC 

@@ -1,0 +1,52 @@
+10:00:58 192.168.0.1 /include/weblogProcess.php
+
+10:00:58 192.168.0.1 /include/weblogProcess.php
+
+11:28:00 192.168.0.1 /include/weblogProcess.php
+
+11:28:00 192.168.0.1 /include/weblogProcess.php
+
+11:28:30 192.168.0.1 /include/weblogProcess.php
+
+11:28:30 192.168.0.1 /include/weblogProcess.php
+
+11:28:35 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+11:28:35 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+11:28:35 192.168.0.1 /include/weblogProcess.php
+
+11:28:35 192.168.0.1 /include/weblogProcess.php
+
+12:19:42 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+12:19:42 192.168.0.1 /board/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+14:26:27 192.168.0.1 /include/weblogProcess.php
+
+14:26:27 192.168.0.1 /include/weblogProcess.php
+
+14:26:29 192.168.0.1 /include/weblogProcess.php
+
+14:26:29 192.168.0.1 /include/weblogProcess.php
+
+14:26:30 192.168.0.1 /include/weblogProcess.php
+
+14:26:30 192.168.0.1 /include/weblogProcess.php
+
+14:26:32 192.168.0.1 /include/weblogProcess.php
+
+14:26:32 192.168.0.1 /include/weblogProcess.php
+
+16:49:31 192.168.0.1 /include/weblogProcess.php
+
+16:49:31 192.168.0.1 /include/weblogProcess.php
+
+16:49:32 192.168.0.1 /include/weblogProcess.php
+
+16:49:32 192.168.0.1 /include/weblogProcess.php
+

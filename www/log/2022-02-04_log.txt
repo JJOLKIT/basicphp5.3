@@ -1,0 +1,40 @@
+10:39:50 192.168.0.1 /include/weblogProcess.php
+
+10:39:50 192.168.0.1 /include/weblogProcess.php
+
+10:39:55 192.168.0.1 /include/weblogProcess.php
+
+10:39:55 192.168.0.1 /include/weblogProcess.php
+
+11:38:24 192.168.0.1 /include/weblogProcess.php
+
+11:38:24 192.168.0.1 /include/weblogProcess.php
+
+11:38:33 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1 AND gubun = 'board'
+11:38:33 192.168.0.1 /admin/dashboard/index.php
+
+			SELECT * FROM admin_fb  WHERE 1=1 AND admin_fk = 1 AND gubun = 'board' ORDER BY no DESC LIMIT 0, 4
+11:38:33 192.168.0.1 /admin/dashboard/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+11:38:41 192.168.0.1 /admin/cscenter/faq/index.php
+
+			SELECT no, name, registdate FROM faq_category ORDER BY no ASC 
+11:38:41 192.168.0.1 /admin/cscenter/faq/index.php
+ SELECT COUNT(*) AS cnt FROM admin_fb WHERE 1=1 AND admin_fk = 1
+14:28:02 192.168.0.1 /include/weblogProcess.php
+
+14:28:02 192.168.0.1 /include/weblogProcess.php
+
+14:28:16 192.168.0.1 /include/weblogProcess.php
+
+14:28:16 192.168.0.1 /include/weblogProcess.php
+
+14:28:17 192.168.0.1 /include/weblogProcess.php
+
+14:28:17 192.168.0.1 /include/weblogProcess.php
+
+14:28:21 192.168.0.1 /include/weblogProcess.php
+
+14:28:21 192.168.0.1 /include/weblogProcess.php
+

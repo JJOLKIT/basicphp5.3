@@ -1,0 +1,1 @@
+192.168.0.1 - [11/May/2018:12:51:14 +0900] /index.php: a = delete from nottice: SQL_Injection 공격 패턴 탐지
